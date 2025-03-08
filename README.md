@@ -2,7 +2,7 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Google](https://img.shields.io/badge/google-4285F4?style=for-the-badge&logo=google&logoColor=white)
 
-# YouTube Playlist Explorer
+# YouTube Playlist Organizer
 
 ![GitHub stars](https://img.shields.io/github/stars/Tolosa527/youtube_playlist_explorer?style=flat-square)
 ![GitHub forks](https://img.shields.io/github/forks/Tolosa527/youtube_playlist_explorer?style=flat-square)
